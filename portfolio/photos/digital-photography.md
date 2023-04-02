@@ -3,7 +3,7 @@ title: Digital Photography
 thumbnail: "/upload/JAK02915EPEPEPEPjhiy.jpg"
 description: Selection of My Favorates
 categories: []
-year: 0
+year: 2023
 date: 
 
 ---
