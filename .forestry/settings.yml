@@ -10,15 +10,15 @@ sections:
   templates:
   - settings
 - type: directory
-  path: portfolio/works
-  label: Works
+  path: portfolio/photos
+  label: photography
   create: all
   match: "**/*"
   templates:
   - works
 - type: directory
-  path: portfolio/journal
-  label: Journal
+  path: portfolio/theatre
+  label: Theatre
   create: all
   match: "**/[!index]*"
   templates:
