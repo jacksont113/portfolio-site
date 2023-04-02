@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "Photos",
-      "link": "/photography",
+      "link": "/photography/",
       "position": "left",
       "external": false
     },
