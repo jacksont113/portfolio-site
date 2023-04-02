@@ -7,4 +7,17 @@ year: 2023
 date: 
 
 ---
-![](/upload/JAK03120.JPG)![](/upload/JAK03126.JPG)![](/upload/JAK00742.JPG)![](/upload/JAK02916EPEPEPEPjhiy.jpg)![](/upload/JAK04790.JPG)![](/upload/JAK04650.JPG)![](/upload/JAK01373.JPG)![](/upload/JAK02915EPEPEPEPjhiy.jpg)
+### Ward Pound Ridge Reservation:
+
+![](/upload/JAK03120.JPG)
+
+![](/upload/JAK03126.JPG)
+
+### Maine:  
+![](/upload/JAK00742.JPG)
+
+### Binghamton:
+
+![](/upload/JAK02916EPEPEPEPjhiy.jpg)
+
+### ![](/upload/JAK04790.JPG)![](/upload/JAK04650.JPG)
